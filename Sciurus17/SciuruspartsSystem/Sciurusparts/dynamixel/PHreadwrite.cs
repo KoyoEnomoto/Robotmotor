@@ -8,5 +8,6 @@ namespace Sciurus17.SciuruspartsSystem.Sciurusparts.dynamixel
 {
     class PHreadwrite
     {
+        PHreadwrite() { Console.WriteLine(1); }
     }
 }
